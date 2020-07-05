@@ -2,38 +2,38 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="hz_ssm_web:war" />
+      <artifact name="jt_ssm_web:war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="174f3d63-464e-4608-a5f1-d89577dec405" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_dao/target/hz_ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_dao/target/hz_ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_dao/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_domain/target/hz_ssm_domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_domain/target/hz_ssm_domain-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_domain/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_domain/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_service/target/hz_ssm_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_service/target/hz_ssm_service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_utils/target/hz_ssm_utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_utils/target/hz_ssm_utils-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_utils/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_utils/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_web/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_web/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hz_ssm_web/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/logs/access_log.2020-04-10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/work/Tomcat/localhost/hz_ssm_web/org/apache/jsp/login_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/work/Tomcat/localhost/hz_ssm_web/org/apache/jsp/login_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/work/Tomcat/localhost/hz_ssm_web/org/apache/jsp/pages/aside_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/work/Tomcat/localhost/hz_ssm_web/org/apache/jsp/pages/aside_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/work/Tomcat/localhost/hz_ssm_web/org/apache/jsp/pages/header_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/work/Tomcat/localhost/hz_ssm_web/org/apache/jsp/pages/header_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/work/Tomcat/localhost/hz_ssm_web/org/apache/jsp/pages/main_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/work/Tomcat/localhost/hz_ssm_web/org/apache/jsp/pages/main_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/work/Tomcat/localhost/hz_ssm_web/org/apache/jsp/pages/syslog_002dlist_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hz_ssm_web/target/tomcat/work/Tomcat/localhost/hz_ssm_web/org/apache/jsp/pages/syslog_002dlist_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_dao/target/jt_ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_dao/target/jt_ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_dao/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_domain/target/jt_ssm_domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_domain/target/jt_ssm_domain-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_domain/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_domain/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_service/target/jt_ssm_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_service/target/jt_ssm_service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_utils/target/jt_ssm_utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_utils/target/jt_ssm_utils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_utils/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_utils/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_web/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_web/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jt_ssm_web/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/logs/access_log.2020-04-10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/work/Tomcat/localhost/jt_ssm_web/org/apache/jsp/login_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/work/Tomcat/localhost/jt_ssm_web/org/apache/jsp/login_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/work/Tomcat/localhost/jt_ssm_web/org/apache/jsp/pages/aside_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/work/Tomcat/localhost/jt_ssm_web/org/apache/jsp/pages/aside_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/work/Tomcat/localhost/jt_ssm_web/org/apache/jsp/pages/header_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/work/Tomcat/localhost/jt_ssm_web/org/apache/jsp/pages/header_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/work/Tomcat/localhost/jt_ssm_web/org/apache/jsp/pages/main_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/work/Tomcat/localhost/jt_ssm_web/org/apache/jsp/pages/main_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/work/Tomcat/localhost/jt_ssm_web/org/apache/jsp/pages/syslog_002dlist_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt_ssm_web/target/tomcat/work/Tomcat/localhost/jt_ssm_web/org/apache/jsp/pages/syslog_002dlist_jsp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hz_ssm_web/src/main/webapp/pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jt_ssm_web/src/main/webapp/pages" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.24367817" />
@@ -99,25 +99,25 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.hz.controller" />
+      <recent name="com.jt.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\hz_JavaProject\ItHeiMa_Spring\hz_ssm_admin\hz_ssm_web\src\main\webapp\pages" />
-      <recent name="D:\hz_JavaProject\ItHeiMa_Spring\hz_ssm_admin\hz_ssm_web\src\main\resources" />
-      <recent name="D:\hz_JavaProject\ItHeiMa_Spring\hz_ssm_admin\hz_ssm_web\src\main\webapp" />
-      <recent name="D:\hz_JavaProject\ItHeiMa_Spring\hz_ssm_admin\hz_ssm_web\src\main\webapp\WEB-INF\pages" />
-      <recent name="D:\hz_JavaProject\ItHeiMa_Spring\hz_ssm_admin\hz_ssm_domain\src\main\java\com\hz\domain" />
+      <recent name="D:\jt_JavaProject\ItHeiMa_Spring\jt_ssm_admin\jt_ssm_web\src\main\webapp\pages" />
+      <recent name="D:\jt_JavaProject\ItHeiMa_Spring\jt_ssm_admin\jt_ssm_web\src\main\resources" />
+      <recent name="D:\jt_JavaProject\ItHeiMa_Spring\jt_ssm_admin\jt_ssm_web\src\main\webapp" />
+      <recent name="D:\jt_JavaProject\ItHeiMa_Spring\jt_ssm_admin\jt_ssm_web\src\main\webapp\WEB-INF\pages" />
+      <recent name="D:\jt_JavaProject\ItHeiMa_Spring\jt_ssm_admin\jt_ssm_domain\src\main\java\com\jt\domain" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.hz.domain" />
-      <recent name="com.hz" />
+      <recent name="com.jt.domain" />
+      <recent name="com.jt" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\hz_JavaProject\ItHeiMa_Spring\hz_ssm_admin\hz_ssm_web\src" />
-      <recent name="D:\hz_JavaProject\ItHeiMa_Spring\hz_ssm_admin\hz_ssm_web" />
-      <recent name="D:\hz_JavaProject\ItHeiMa_Spring\hz_ssm_admin\hz_ssm_web\src\main\webapp" />
-      <recent name="D:\hz_JavaProject\ItHeiMa_Spring\hz_ssm_admiin\hz_ssm_web\src\main\webapp\WEB-INF\test" />
-      <recent name="D:\hz_JavaProject\ItHeiMa_Spring\hz_ssm_admiin\hz_ssm_web\src\main\webapp\WEB-INF" />
+      <recent name="D:\jt_JavaProject\ItHeiMa_Spring\jt_ssm_admin\jt_ssm_web\src" />
+      <recent name="D:\jt_JavaProject\ItHeiMa_Spring\jt_ssm_admin\jt_ssm_web" />
+      <recent name="D:\jt_JavaProject\ItHeiMa_Spring\jt_ssm_admin\jt_ssm_web\src\main\webapp" />
+      <recent name="D:\jt_JavaProject\ItHeiMa_Spring\jt_ssm_admiin\jt_ssm_web\src\main\webapp\WEB-INF\test" />
+      <recent name="D:\jt_JavaProject\ItHeiMa_Spring\jt_ssm_admiin\jt_ssm_web\src\main\webapp\WEB-INF" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -125,13 +125,13 @@
       <command value="application" />
     </option>
   </component>
-  <component name="RunManager" selected="Maven.hz-ssm-web">
+  <component name="RunManager" selected="Maven.jt-ssm-web">
     <configuration name="RoleServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hz.service.impl.RoleServiceImpl" />
-      <module name="hz_ssm_service" />
+      <option name="MAIN_CLASS_NAME" value="com.jt.service.impl.RoleServiceImpl" />
+      <module name="jt_ssm_service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hz.service.*" />
+          <option name="PATTERN" value="com.jt.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,7 +139,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hz-ssm-web" type="MavenRunConfiguration" factoryName="Maven">
+    <configuration name="jt-ssm-web" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -158,7 +158,7 @@
               <map />
             </option>
             <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$/hz_ssm_web" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jt_ssm_web" />
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
